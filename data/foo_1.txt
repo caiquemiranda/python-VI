@@ -1,0 +1,6 @@
+Assuming that 'foo.txt' contains following lines
+C++
+Java
+Python
+Perl
+PHP
